@@ -1,5 +1,5 @@
-import project1 from "../assets/images/img.jpg";
-
+import project2 from "../assets/images/img.jpg";
+import project1 from "../assets/images/front.png";
 export const projects = [
   {
     id:2,
@@ -16,8 +16,8 @@ export const projects = [
     description:
       "A web application to report and claim lost or found items within a campus.",
     tech: ["React", "Node.js", "MongoDB"],
-    image: project1,
-    github: "",
+    image: project2,
+    github: "https://github.com/Aditya107827/campus-lost-found",
     live: "",
   },
 ];
